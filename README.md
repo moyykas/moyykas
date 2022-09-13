@@ -1,11 +1,9 @@
-### 𝐇𝐞𝐥𝐥𝐨 𝐟𝐞𝐥𝐥𝐨𝐰 <𝚌𝚘𝚍𝚎𝚛𝚜/>! I'm Moises Martínez aka Moyykas👋
-<h2> I'm Telematics Engineer Student and Cloud Computing Fanatic <!--<img src="https://github.com/ABSphreak/ABSphreak/blob/master/gifs/Hi.gif" width="30px">--></h2>
+# 𝐇𝐞𝐥𝐥𝐨 𝐟𝐞𝐥𝐥𝐨𝐰 <𝚌𝚘𝚍𝚎𝚛𝚜/>! I'm Moises Martínez aka Moyykas 👋
 
-<div align="center" width="50">
+<img align="right" alt="welcome-gif" height="160px" src="https://i.pinimg.com/originals/e6/bb/2d/e6bb2dfde69f83a09b4a61e21c8ba4e3.gif"/>
 
-<img src="https://i.imgur.com/dTYwdG1.gif" alt="Welcome!" width="300"/>
+## I'm Telematics Engineer Student and Cloud Computing Fanatic
 
-</div>
 
 You have finally discovered my Github profile. <br>
 Please feel free to clone projects and raise issues if you think something could be better.
