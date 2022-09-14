@@ -43,10 +43,15 @@
 ![PostgreSQL](https://img.shields.io/badge/-PostgreSQL-05122A?style=flat&logo=postgresql)&nbsp;
 
 ### ⚙️ &nbsp;GitHub Analytics
-
 <p align="center">
+
 <a href="https://github.com/moyykas">
+<<<<<<< HEAD
   <img height="130em" src="https://github-readme-stats-eight-theta.vercel.app/api?username=moyykas&show_icons=true&theme=vision-friendly-dark&include_all_commits=true&count_private=true"/>
   <img height="130em" src="https://github-readme-stats-eight-theta.vercel.app/api/top-langs/?username=moyykas&layout=compact&theme=vision-friendly-dark"/>
+=======
+  <img height="150em" src="https://github-readme-stats-eight-theta.vercel.app/api?username=moyykas&show_icons=true&theme=vision-friendly-dark&include_all_commits=true&count_private=true"/>
+  <img height="150em" src="https://github-readme-stats-eight-theta.vercel.app/api/top-langs/?username=moyykas&layout=compact&theme=vision-friendly-dark"/>
+>>>>>>> 80df23cb5807b3765c2805018c75bb331dcae755
 </a>
 </p>
