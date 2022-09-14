@@ -3,7 +3,7 @@
 -->
 # 𝐇ey there! I'm Moises Martínez aka Moyykas 👋
 
-<img align="right" alt="welcome-gif" height="80px" src="https://polekon.org/wp-content/uploads/2021/12/hello_world_title3.gif"/>
+<img align="right" alt="welcome-gif" height="70px" src="https://polekon.org/wp-content/uploads/2021/12/hello_world_title3.gif"/>
 
 ## I'm Telematics Engineer Student and Cloud Computing Evangelist
 
@@ -13,8 +13,15 @@
 🌱 &nbsp;I'm on track for learning more about Artificial Intelligence, Web Development and Cloud Computing.\
 💬 &nbsp;I love videogames, swimming, cinema and TV series.\
 ✉️ &nbsp;You can shoot me an email at moisesj.martinezh@gmail.com I'll try to respond as soon as I can.
-<!-- ✍️ &nbsp;In my free time, I pursue Graphic Design and Blog Writing as hobbies/side hustles.\ -->
-<!--📄 &nbsp;Please have a look at my [Résumé](https://www.adityavsingh.com/resume.html) for more details about me. I'm open to feedback and suggestions!-->
+### 🤝🏻 &nbsp;Connect with Me
+
+<p align="left">
+<a href="https://linkedin.com/in/moyymtz"><img src="https://img.shields.io/badge/-Moises%20Martinez-0077B5?style=flat&logo=Linkedin"/></a>
+<a href="mailto:avsingh@umass.edu"><img src="https://img.shields.io/badge/-moisesj.martinezh@gmail.com-D14836?style=flat&logo=Gmail&logoColor=white"/></a>
+<a href="https://twitter.com/moyykas"><img src="https://img.shields.io/badge/-@moyykas-1877F2?style=flat&logo=Twitter&logoColor=white"/></a>
+<a href="https://instagram.com/moyykas"><img src="https://img.shields.io/badge/-@moyykas-E4405F?style=flat&logo=Instagram&logoColor=white"/></a>
+</p>
+
 ### 🛠 &nbsp;Tech Stack
 
 ![HTML](https://img.shields.io/badge/-HTML-05122A?style=flat&logo=HTML5)&nbsp;
