@@ -3,9 +3,9 @@
 -->
 # 𝐇ey there! I'm Moises Martínez aka Moyykas 👋
 
-<img align="right" alt="welcome-gif" height="70px" src="https://polekon.org/wp-content/uploads/2021/12/hello_world_title3.gif"/>
+<img align="right" alt="welcome-gif" height="80px" src="https://polekon.org/wp-content/uploads/2021/12/hello_world_title3.gif"/>
 
-## I'm Telematics Engineer Student and Cloud Computing Evangelist
+## I'm Telematics Engineer Student and Cloud Computing Lover
 
 ### 👨🏻‍💻 &nbsp;About Me
 
